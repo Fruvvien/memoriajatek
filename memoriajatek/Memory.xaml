@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:memoriajatek"
         mc:Ignorable="d"
         Title="Memory" Height="450" Width="800">
-    <Grid x:Name="mainGrid">
+    <Grid ShowGridLines="True" x:Name="mainGrid">
         
 
 
